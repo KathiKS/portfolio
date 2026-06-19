@@ -1,7 +1,7 @@
 export const portfolioData = {
   name: "Karthikeyan",
 
-  resume: "/resume.pdf",
+  resume: "/updated_resume.pdf",
 
   socials: {
     github: "github.com/KathiKS",
