@@ -54,7 +54,7 @@ export default function Contact() {
 
             <div className="contact-links">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/karthikeyan-senthilkumar-929619281/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="contact-link"
@@ -63,7 +63,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://github.com"
+                href="https://github.com/KathiKS"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="contact-link"
