@@ -30,7 +30,7 @@ export default function Hero() {
 
             <div className="hero-buttons">
               <a
-                href="/Karthikeyan_Resume.pdf"
+                href="/updated_resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="primary-btn"
